@@ -21,8 +21,6 @@
 ### <ins>  </ins> 
 <img src="images/img7.png" alt="image7" width="820" height="500" align="center"/>
 
-### <ins>  </ins> 
-<img src="images/img8.png" alt="image8" width="820" height="500" align="center"/>
 
 
 # Laravel 10 CRUD and Image Upload Tutorial with Laravel Breeze and Repo Example
