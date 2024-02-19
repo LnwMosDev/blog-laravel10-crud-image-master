@@ -1,5 +1,10 @@
 # Laravel+tailwind css+bootstrap# Genshin impact
 * Natdanai Wongsa
+
+Admin
+641413019@crru.ac.th
+12345678
+
 ### <ins> </ins> 
 <img src="images/img1.png" alt="image1" width="820" height="1900" align="center"/>
 
