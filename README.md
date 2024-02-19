@@ -1,3 +1,30 @@
+# Laravel+tailwind css+bootstrap# Genshin impact
+* Natdanai Wongsa
+### <ins> </ins> 
+<img src="images/image1.png" alt="image1" width="820" height="1000" align="center"/>
+
+### <ins> </ins> 
+<img src="images/iamge2.png" alt="image2" width="820" height="500" align="center"/>
+
+### <ins>  </ins> 
+<img src="images/image3.png" alt="image3" width="820" height="500" align="center"/>
+
+### <ins> </ins> 
+<img src="images/image4.png" alt="image4" width="820" height="500" align="center"/>
+
+### <ins> </ins> 
+<img src="images/image5.png" alt="image5" width="820" height="500" align="center"/>
+
+### <ins>  </ins> 
+<img src="images/image6.png" alt="image6" width="820" height="500" align="center"/>
+
+### <ins>  </ins> 
+<img src="images/image7.png" alt="image7" width="820" height="500" align="center"/>
+
+### <ins>  </ins> 
+<img src="images/image8.png" alt="image8" width="820" height="500" align="center"/>
+
+
 # Laravel 10 CRUD and Image Upload Tutorial with Laravel Breeze and Repo Example
 This is an implementation of Laravel CRUD tutorial. A blog about this can be found here: [Laravel 10 CRUD and Image Upload Tutorial with Laravel Breeze and Repo Example | Fajarwz](https://fajarwz.com/blog/laravel-10-crud-and-image-upload-tutorial-with-laravel-breeze-and-repo-example/).
 
